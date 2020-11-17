@@ -9,4 +9,4 @@ I received PHD'19 and MS'13 in Computer Science from [KAUST](https://kaust.edu.s
 In a previous life, I was a Software Engineer at [Saudi Electricity Company](https://www.se.com.sa/en-us/Pages/home.aspx) and [Saudi Aramco](https://www.aramco.com/). Before that, I received BS'12 in Computer Science from [King Faisal University (KFU)](https://www.kfu.edu.sa/).
 
    * Website: [farhanma.github.io](https://farhanma.github.io/)
-   * Email: mohammed.farhan@kaust.edu.sa | farhan@icl.utk.edu
+   * Email: alfarhanmah@gmail.com
