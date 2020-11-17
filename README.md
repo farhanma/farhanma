@@ -17,7 +17,7 @@ I was part of the world's leading
 [Software for Linear Algebra Targeting Exascale (SLATE)](http://icl.utk.edu/slate/).
 
 I am activity contributing to the maintenance and development of the
-[SLATE](http://icl.utk.edu/slate/) open source math library:
+[SLATE](http://icl.utk.edu/slate/) math library:
 [https://bitbucket.org/icl/slate/](https://bitbucket.org/icl/slate/).
 
 I received PHD'19 and MS'13 in Computer Science from
