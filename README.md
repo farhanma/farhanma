@@ -6,7 +6,7 @@ I am activity contributing to the development of [SLATE](http://icl.utk.edu/slat
 
 I received PHD'19 and MS'13 in Computer Science from [KAUST](https://kaust.edu.sa/en), where I was part of the [ECRC](https://ecrc.kaust.edu.sa) working with [David E. Keyes](https://www.kaust.edu.sa/en/study/faculty/david-keyes) on developing performance-centric algorithms for high performance computing, in the context of unstructured grid PDEs and the Fast Multipole Method. My dissertation title is: [unstructured computations on emerging architectures](https://repository.kaust.edu.sa/handle/10754/644902).
 
-In a previous life, I was a Software Engineer at [Saudi Electricity Company](https://www.se.com.sa/en-us/Pages/home.aspx) and [Saudi Aramco](https://www.aramco.com/). Before that, I received BS'12 in Computer Science from [King Faisal University (KFU)](https://www.kfu.edu.sa/).
+In a previous life, I was a Software Engineer at [Saudi Electricity Company](https://www.se.com.sa/en-us/Pages/home.aspx) and [Saudi Aramco](https://www.aramco.com/). Before that, I received BS'12 in Computer Science from [King Faisal University (KFU)](https://www.kfu.edu.sa/sites/Home/Default.aspx).
 
    * Website: [farhanma.github.io](https://farhanma.github.io/)
    * Email: alfarhanmah@gmail.com
