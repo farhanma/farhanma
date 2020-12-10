@@ -16,9 +16,8 @@ I was part of the world's leading
 [United States Department of Energy](https://www.energy.gov/):
 [Software for Linear Algebra Targeting Exascale (SLATE)](http://icl.utk.edu/slate/).
 
-I am activity contributing to the maintenance and development of the
-[SLATE](http://icl.utk.edu/slate/) math library:
-[https://bitbucket.org/icl/slate/](https://bitbucket.org/icl/slate/).
+My main contribution to open source is to the [SLATE](http://icl.utk.edu/slate/)
+math library: [https://bitbucket.org/icl/slate/](https://bitbucket.org/icl/slate/).
 
 I received PHD'19 and MS'13 in Computer Science from
 [KAUST](https://kaust.edu.sa/en), where I was part of the
