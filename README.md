@@ -6,7 +6,7 @@ on developing scalable algorithms exploiting data sparsity. I am part of the
 [Hierarchical Computations on Manycore Architectures (HiCMA)](https://cemse.kaust.edu.sa/hicma)
 research group.
 
-Before I was a Postdoctoral Researcher in the
+Prior to that, I was a Postdoctoral Researcher in the
 [Innovative Computing Laboratory (ICL)](http://www.icl.utk.edu/) at the
 [University of Tennessee, Knoxville](https://utk.edu/), where I worked with
 [Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) on developing
