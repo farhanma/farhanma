@@ -8,7 +8,7 @@ research group.
 
 Prior to that, I was a Postdoctoral Researcher in the
 [Innovative Computing Laboratory (ICL)](http://www.icl.utk.edu/) at the
-[University of Tennessee](https://utk.edu/), where I worked with
+[University of Tennessee, Knoxville](https://utk.edu/), where I worked with
 [Jack Dongarra](http://www.netlib.org/utk/people/JackDongarra/) on developing
 algorithms for dense linear algebra on distributed, GPU-accelerated systems.
 I was part of the world's leading
