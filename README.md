@@ -1,6 +1,4 @@
 I am a Senior Data Scientist in the Solutions Productization Department at KAPSARC.
-I develop analytical models for energy, economy and climate, and deploy them in
-production.
 
 Previously, I was a Postdoctoral Researcher in the Extreme Computing Research Center
 at KAUST. I worked with David E. Keyes on developing scalable algorithms exploiting
