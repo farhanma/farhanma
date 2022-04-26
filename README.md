@@ -1,4 +1,4 @@
-I am a Senior Data and Models Solutions Associate in the Solutions Productization Program at KAPSARC.
+I am a Senior Data and Models Solutions Associate in the Solutions Productization Department at KAPSARC.
 
 Previously, I was a Postdoctoral Researcher in the Extreme Computing Research Center
 at KAUST. I worked with David E. Keyes on developing scalable algorithms exploiting
