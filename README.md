@@ -15,5 +15,5 @@ Department of Energy: Software for Linear Algebra Targeting Exascale
 
 Before that, I was a Software Engineer at Saudi Electricity Company and Saudi Aramco.
 
-   * Website: [farhanma.github.io](https://farhanma.github.io/)
    * Email: alfarhanmah@gmail.com
+   * Homepage: [farhanma.github.io](https://farhanma.github.io/)
