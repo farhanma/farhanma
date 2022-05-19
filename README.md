@@ -1,5 +1,6 @@
 I am a Senior Data and Models Solutions Associate in the Solutions Productization
-Program of the Knowledge and Analysis Department at KAPSARC.
+Program of the Knowledge and Analysis Department at King Abdullah Petroleum Studies
+and Research Center (KAPSARC).
 
 Previously, I was a Postdoctoral Researcher in the Extreme Computing Research Center
 at KAUST. I worked with David E. Keyes on developing scalable algorithms exploiting
