@@ -3,9 +3,10 @@ Program of the Knowledge and Analysis Department at King Abdullah Petroleum Stud
 and Research Center (KAPSARC).
 
 Previously, I was a Postdoctoral Researcher in the Extreme Computing Research Center
-at KAUST. I worked with David E. Keyes on developing scalable algorithms exploiting
-data sparsity in dense matrices to bridge between architectures that are increasingly
-memory-austere on a per-core basis and extreme-scale scientific applications.
+at King Abdullah University of Science and Technology (KAUST). I worked with David E.
+Keyes on developing scalable algorithms exploiting data sparsity in dense matrices to
+bridge between architectures that are increasingly memory-austere on a per-core basis
+and extreme-scale scientific applications.
 
 Prior to that, I was a Postdoctoral Researcher in the Innovative Computing Laboratory
 at the University of Tennessee, Knoxville, where I worked with Jack Dongarra on
@@ -15,6 +16,3 @@ Department of Energy: Software for Linear Algebra Targeting Exascale
 (SLATE, https://icl.utk.edu/slate/).
 
 Before that, I was a Software Engineer at Saudi Electricity Company and Saudi Aramco.
-
-   * Email: alfarhanmah@gmail.com
-   * Homepage: [farhanma.github.io](https://farhanma.github.io/)
