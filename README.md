@@ -1,6 +1,7 @@
 I am a Senior Data and Models Solutions Associate in the Solutions Productization
 Program of the Knowledge and Analysis Department at King Abdullah Petroleum Studies
-and Research Center (KAPSARC).
+and Research Center (KAPSARC). I develop production-ready data analytics solutions
+for energy, economy, and climate models.
 
 Previously, I was a Postdoctoral Researcher in the Extreme Computing Research Center
 at King Abdullah University of Science and Technology (KAUST). I worked with David E.
