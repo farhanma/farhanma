@@ -1,5 +1,5 @@
 I am a Senior Data and Models Solutions Associate in the Solutions Productization
-Program of the Knowledge and Analysis Department at King Abdullah Petroleum Studies
+Department of the Knowledge and Analysis Division at King Abdullah Petroleum Studies
 and Research Center (KAPSARC). I develop production-ready data analytics solutions
 for energy, economy, and climate models.
 
