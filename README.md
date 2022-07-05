@@ -20,5 +20,5 @@ Software for Linear Algebra Targeting Exascale (SLATE, https://icl.utk.edu/slate
 I received my PhD and MS in Computer Science from KAUST. I have also spent time
 working as a Software Engineer at Saudi Electricity Company.
 
-I received BS in Computer Science from King Faisal University. during which I
-did two Software Engineering internships at Saudi Aramco.
+Before that, I received BS in Computer Science from King Faisal University. during
+which I did two Software Engineering internships at Saudi Aramco.
