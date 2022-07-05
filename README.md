@@ -1,19 +1,24 @@
-I am a Senior Data and Models Solutions Associate in the Solutions Productization
-Department of the Knowledge and Analysis Division at King Abdullah Petroleum Studies
-and Research Center (KAPSARC). I develop production-ready data analytics solutions
-for energy, economy, and climate models.
+Computer Scientist with long-time research experience in High Performance
+Computing on several TOP500 supercomputers equipped with varieties of
+heterogeneous system architectures.
 
-Previously, I was a Postdoctoral Researcher in the Extreme Computing Research Center
-at King Abdullah University of Science and Technology (KAUST). I worked with David E.
-Keyes on developing scalable algorithms exploiting data sparsity in dense matrices to
-bridge between architectures that are increasingly memory-austere on a per-core basis
-and extreme-scale scientific applications.
+Currently, I am a Senior Data Engineer at KAPSARC, focusing on developing
+production-ready data analytics solutions for in-house developed models for
+energy, economy, and climate.
 
-Prior to that, I was a Postdoctoral Researcher in the Innovative Computing Laboratory
-at the University of Tennessee, Knoxville, where I worked with Jack Dongarra on
-developing algorithms for dense linear algebra on distributed, GPU-accelerated systems.
-I was part of the world's leading Exascale Computing Project of the United States
-Department of Energy: Software for Linear Algebra Targeting Exascale
-(SLATE, https://icl.utk.edu/slate/).
+Previously, I was a Postdoctoral Researcher at KAUST, where I worked with David
+E. Keyes on developing scalable algorithms exploiting data sparsity in dense
+matrices to bridge between architectures that are increasingly memory-austere on
+a per-core basis and extreme-scale scientific applications.
 
-Before that, I was a Software Engineer at Saudi Electricity Company and Saudi Aramco.
+Prior to that, I was a Postdoctoral Researcher at the University of Tennessee,
+Knoxville, where I worked with Jack Dongarra on developing algorithms for dense
+linear algebra on distributed, GPU-accelerated systems. I was part of the world's
+leading Exascale Computing Project of the United States Department of Energy:
+Software for Linear Algebra Targeting Exascale (SLATE, https://icl.utk.edu/slate/).
+
+I received my PhD and MS in Computer Science from KAUST. I have also spent time
+working as a Software Engineer at Saudi Electricity Company.
+
+I received BS in Computer Science from King Faisal University. during which I
+did two Software Engineering internships at Saudi Aramco.
