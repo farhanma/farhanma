@@ -1,24 +1,17 @@
-Computer Scientist with long-time research experience in High Performance
-Computing on several TOP500 supercomputers equipped with varieties of
-heterogeneous system architectures.
-
-Currently, I am a Senior Data Engineer at KAPSARC, focusing on developing
-production-ready data analytics solutions for in-house developed models for
-energy, economy, and climate.
-
-Previously, I was a Postdoctoral Researcher at KAUST, where I worked with David
-E. Keyes on developing scalable algorithms exploiting data sparsity in dense
-matrices to bridge between architectures that are increasingly memory-austere on
-a per-core basis and extreme-scale scientific applications.
-
-Prior to that, I was a Postdoctoral Researcher at the University of Tennessee,
-Knoxville, where I worked with Jack Dongarra on developing algorithms for dense
-linear algebra on distributed, GPU-accelerated systems. I was part of the world's
+Mohammed Al Farhan is a computer scientist specialized in scientific computing
+and software systems for emerging large-scale workloads such as linear algebra,
+computational fluid dynamics and fast multipole methods. Currently, Mohammed is
+a senior data engineer at KAPSARC, focusing on developing production-ready data
+analytics solutions for in-house developed models for energy, economy, and
+climate. Prior to that, Al Farhan was a postdoc at KAUST, where he worked with
+David E. Keyes on developing scalable algorithms exploiting data sparsity in
+dense matrices to bridge between architectures that are increasingly
+memory-austere on a per-core basis and extreme-scale scientific applications.
+Previously, Farhan was a postdoc at the University of Tennessee, Knoxville,
+where he worked with Jack Dongarra on developing algorithms for dense linear
+algebra on distributed, GPU-accelerated systems. He was part of the world's
 leading Exascale Computing Project of the United States Department of Energy:
 Software for Linear Algebra Targeting Exascale (SLATE, https://icl.utk.edu/slate/).
-
-I received my PhD and MS in Computer Science from KAUST. I have also spent time
-working as a Software Engineer at Saudi Electricity Company.
-
-Before that, I received BS in Computer Science from King Faisal University. during
-which I did two Software Engineering internships at Saudi Aramco.
+Mohammed received PhD and MS in computer science from KAUST, and BS in computer
+science from King Faisal University. Al Farhan also spent time working as a
+software engineer at the Saudi Electracity Compnay and Saudi Aramco.
