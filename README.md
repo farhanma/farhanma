@@ -1,8 +1,8 @@
 Mohammed Al Farhan is a computer scientist specialized in scientific computing
 and software systems for emerging large-scale workloads such as linear algebra,
 computational fluid dynamics and fast multipole methods. Currently, Mohammed is
-senior HPC consultant at Hewlett Packard Enterprise, where he is responsible for
-the monitoring, implementation, and maintenance of large-scale systems optimized
+HPC consultant at Hewlett Packard Enterprise, where he is responsible for the
+monitoring, implementation, and maintenance of large-scale systems optimized
 for HPC and AI workloads. Previously, Al Farhan was a senior data engineer at
 KAPSARC, focusing on developing production-ready data analytics solutions for
 in-house developed models for energy, economy, and climate. Prior to that, Farhan
