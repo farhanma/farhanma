@@ -1,9 +1,9 @@
 Mohammed Al Farhan is a senior HPC technology consultant at HPE, where he is
 responsible for monitoring, implementation, and maintenance of large-scale
 systems optimized for HPC and AI workloads. Previously, Al Farhan was a senior
-data engineer at KAPSARC, focusing on developing production-ready data analytics
-solutions for in-house developed models for energy, economy, and climate. Prior
-to that, Farhan was a postdoc at KAUST, where he worked with David E. Keyes on
+data engineer at KAPSARC, focusing on developing production-ready data engineering
+and analytics solutions for in-house developed models for energy, economy, and climate.
+Prior to that, Farhan was a postdoc at KAUST, where he worked with David E. Keyes on
 developing scalable algorithms exploiting data sparsity in dense matrices to
 bridge between architectures that are increasingly memory-austere on a per-core
 basis and extreme-scale scientific applications. Before that, Mohammed was a
