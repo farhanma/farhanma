@@ -1,4 +1,4 @@
-Mohammed Al Farhan is a Senior HPC Technology Consultant at the Hewlett Packard
+Mohammed Al Farhan is a Senior HPC Engineer at the Hewlett Packard
 Enterprise (HPE), where he is responsible for installation, configuration,
 supporting, and maintenance of large-scale systems optimized for HPC and AI
 workloads. He received his Ph.D. in Computer Science from the King Abdullah
