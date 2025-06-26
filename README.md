@@ -1,4 +1,4 @@
-I am a principal technologist at Hewlett Packard Enterprise (HPE),
+I am principal technologist at Hewlett Packard Enterprise (HPE),
 responsible for the deployment, installation, configuration, and support of
 supercomputing solutions designed for HPC and AI workloads.
 
