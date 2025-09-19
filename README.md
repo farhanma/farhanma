@@ -1,4 +1,4 @@
-I am senior technologist at HPE, responsible for the deployment, installation,
+I am senior technologist at HPE responsible for the deployment, installation,
 configuration, and support of supercomputing solutions designed for HPC&AI
 workloads. Before this, I held roles as senior data engineer at KAPSARC, postdoc
 at KAUST with Prof. David E. Keyes, postdoc at the University of Tennessee,
